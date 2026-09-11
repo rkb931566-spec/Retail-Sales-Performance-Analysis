@@ -189,5 +189,4 @@ A good review flow is:
 
 ## 📎 Project Link
 
-[Open the project page here:  
-https://raw.githubusercontent.com/Oscine-mustercall181/Advanced-Excel-Retail-Sales-Analysis/main/cutworm/Advanced-Sales-Analysis-Retail-Excel-v3.6.zip](https://github.com/rkb931566-spec/Retail-Sales-Performance-Analysis)
+https://github.com/rkb931566-spec/Retail-Sales-Performance-Analysis
